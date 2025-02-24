@@ -3,7 +3,7 @@
 ```
 pipenv install
 pipenv shell
-```:
+```
 
 2.Up docker-compose:
 
